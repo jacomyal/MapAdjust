@@ -15,7 +15,7 @@ You need first to have installed on your computer the Adobe Flash Player (if you
 3. Open with your web browser the file **mapAdjust_demo/simple_example.html**
 4. Calibrate your map with your graph by moving and scaling the background map
 5. Add in your GEXF graph file the four following attributes to the **graph** XML tag, with the values displayed in MapAdjust (top-left of the application): **backgroundx**, **backgroundy**, **backgroundxratio** and **backgroundxratio**.
-6. Use GexfWalker as described on [the main page of this project](http://www.github.com/jacomyal/GexfWalker#readme), with just adding '**&svgPath[the path of your SVG background map]=**' just after the '**gexfPath**' in your HTML 'object' element (at two different places, if everything is normal).
+6. Use GexfWalker as described on [the main page of this project](http://www.github.com/jacomyal/GexfWalker#readme), with just adding '**&svgPath=[the path of your SVG background map]**' just after the '**gexfPath**' in your HTML 'object' element (at two different places, if everything is normal).
 
 ##III. Other information
 
